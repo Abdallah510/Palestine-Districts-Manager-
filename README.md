@@ -1,4 +1,4 @@
-# Palestine Districts Manager — C
+# Palestine Districts Manager 
 
 A menu-driven C application. It manages a two-level hierarchy of Palestinian districts and their towns, loaded from a file and sorted using Radix Sort.
 
